@@ -1,1 +1,1 @@
-practica de reflog
+prueba reset hard
